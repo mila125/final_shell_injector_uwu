@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\6lady\source\repos\shellinject3112\shellinject3112\main.cpp(249,106): warning C4319: '~': extensión de cero de tipo 'DWORD' a un tipo 'size_t' de mayor tamaño
+C:\Users\6lady\source\repos\shellinject3112\shellinject3112\main.cpp(255,88): warning C4319: '~': extensión de cero de tipo 'DWORD' a un tipo 'size_t' de mayor tamaño
+C:\Users\6lady\source\repos\shellinject3112\shellinject3112\main.cpp(257,82): warning C4319: '~': extensión de cero de tipo 'DWORD' a un tipo 'size_t' de mayor tamaño
+  shellinject3112.vcxproj -> C:\Users\6lady\source\repos\shellinject3112\shellinject3112\x64\Debug\shellinject3112.exe
